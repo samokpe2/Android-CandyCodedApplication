@@ -11,7 +11,6 @@
   <component name="ChangeListManager">
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -216,7 +215,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601253877128</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Start the phone activity">
+      <created>1601254277849</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1601254277849</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -226,7 +232,8 @@
     <MESSAGE value="Start the google maps activity" />
     <MESSAGE value="Start the google maps activity contd" />
     <MESSAGE value="Start the google maps activity contd 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Start the google maps activity contd 2" />
+    <MESSAGE value="Start the phone activity" />
+    <option name="LAST_COMMIT_MESSAGE" value="Start the phone activity" />
   </component>
   <component name="WindowStateProjectService">
     <state x="200" y="116" key="#PSD" timestamp="1601247270489">
@@ -241,25 +248,25 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="531" y="273" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.768@0.0.1366.768" timestamp="1601245151255" />
-    <state x="190" y="0" key="CommitChangelistDialog2" timestamp="1601253868133">
+    <state x="190" y="0" key="CommitChangelistDialog2" timestamp="1601254257923">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="190" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1601253868133" />
-    <state width="1323" height="192" key="GridCell.Tab.0.bottom" timestamp="1601251972776">
+    <state x="190" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1601254257923" />
+    <state width="1323" height="192" key="GridCell.Tab.0.bottom" timestamp="1601254509998">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="192" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1601251972776" />
-    <state width="1323" height="192" key="GridCell.Tab.0.center" timestamp="1601251972776">
+    <state width="1323" height="192" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1601254509998" />
+    <state width="1323" height="192" key="GridCell.Tab.0.center" timestamp="1601254509998">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="192" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1601251972776" />
-    <state width="1323" height="192" key="GridCell.Tab.0.left" timestamp="1601251972776">
+    <state width="1323" height="192" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1601254509998" />
+    <state width="1323" height="192" key="GridCell.Tab.0.left" timestamp="1601254509998">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="192" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1601251972776" />
-    <state width="1323" height="192" key="GridCell.Tab.0.right" timestamp="1601251972776">
+    <state width="1323" height="192" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1601254509998" />
+    <state width="1323" height="192" key="GridCell.Tab.0.right" timestamp="1601254509998">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="192" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1601251972776" />
+    <state width="1323" height="192" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1601254509998" />
   </component>
 </project>
